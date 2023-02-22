@@ -7,15 +7,15 @@ public class AwtApplication {
         ob.setVisible(true);
         Panel p = new Panel();
         ob.add(p);
-        Label l1  = new Label("Enter First Name : ");
+        Label l1  = new Label("Enter First Number : ");
         p.add(l1);
         TextField txtf1 = new TextField();
         p.add(txtf1);
-        Label l2  = new Label("Enter Second Name : ");
+        Label l2  = new Label("Enter Second Number : ");
         p.add(l2);
         TextField txtf2 = new TextField();
         p.add(txtf2);
-        Label l3  = new Label("Enter Third Name : ");
+        Label l3  = new Label("Enter Third Number : ");
         p.add(l3);
         TextField txtf3 = new TextField();
         p.add(txtf3);
