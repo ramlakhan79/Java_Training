@@ -13,7 +13,6 @@ public class ImageIconExam {
     jp.add(jb);
     JLabel jl = new JLabel(img);
     jp.add(jl);
-
   }
 
   public static void main(String arg[]) {
